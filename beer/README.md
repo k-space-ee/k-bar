@@ -13,7 +13,7 @@ To make beer out of the cheapest ingredients.
 * Malt extract from the supermarket (2*1.2kg)
 * 0.5kg of powdered sugar (2% potato starch)
 
-[!alt text](https://raw.githubusercontent.com/k-space-ee/k-bar/master/beer/000.jpg "Initial setup: tun, store bought malt and powdered sugar")  
+[!Image of initial setup](https://github.com/username/repository/blob/master/img/octocat.png)  
 _Image author [@jaanjanesmae](https://github.com/janesmae)_
 
 | # | Oe |   SG  |  Bx  | P.Alc. |   Date   |
