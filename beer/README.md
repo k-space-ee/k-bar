@@ -25,4 +25,4 @@ _Image author [@jaanjanesmae](https://github.com/janesmae)_
 | # | Oe |   SG  |  Bx  | [P.Alc.](https://www.brewersfriend.com/abv-calculator/ "Potential alcohol if Final Gravity is 1.019") |   Date   |
 | - | -- | :---: | :--: | :----: | :------: |
 | 0 | 38 | 1.038 |  9.5 |  4.95  | 12.05.18 |
-
+| 1 | 17 | 1.012 |  3.07 |   "   | 17.05.18 |
