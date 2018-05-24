@@ -27,4 +27,5 @@ _Image author [@jaanjanesmae](https://github.com/janesmae)_
 | 0 | 38 | 1.038 |  9.5 |  4.95  | 12.05.18 | 0 |
 | 1 | 12 | 1.012 |  3.07 |   "   | 17.05.18 | 5 |
 | 2 | 12 | 1.012 |  3.07 |   "   | 19.05.18 | 7 | Brew is cloudy, taste has improved, slight bubbling on tongue. Will let clear for another 5 days. |
+| 3 | 12 | 1.012 |  3.07 |   "   | 24.05.18 | 12 | Brew is less cloudy, taste has drastically improved (no yeast) but is watery. Reckon due to not putting enough malt. Time to bottle and start the second fermentation. Doesn't look too promising. |
 
