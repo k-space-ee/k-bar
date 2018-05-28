@@ -24,8 +24,8 @@ _Image author [@jaanjanesmae](https://github.com/janesmae)_
 
 | # | Oe |   SG  |  Bx  | [P.Alc.](https://www.brewersfriend.com/abv-calculator/ "Potential alcohol if Final Gravity is 1.019") |   Date   | Days | Notes |
 | - | :-: | :---: | :--: | :----: | :------------------: | :-: | :---- |
-| 0 | 38 | 1.038 |  9.5 |  4.95  | 12.05.18 | 0 |
-| 1 | 12 | 1.012 |  3.07 |   "   | 17.05.18 | 5 |
-| 2 | 12 | 1.012 |  3.07 |   "   | 19.05.18 | 7 | Brew is cloudy, taste has improved, slight bubbling on tongue. Will let clear for another 5 days. |
-| 3 | 12 | 1.012 |  3.07 |   "   | 24.05.18 | 12 | Brew is less cloudy, taste has drastically improved (no yeast) but is watery. Reckon due to not putting enough malt. Time to bottle and start the second fermentation. Doesn't look too promising. |
-
+| 0 | 38 | 1.038 |  9.5 |  4.95  | 2018-05-12 | 0 |
+| 1 | 12 | 1.012 |  3.07 |   "   | 2018-05-17 | 5 |
+| 2 | 12 | 1.012 |  3.07 |   "   | 2018-05-19 | 7 | Brew is cloudy, taste has improved, slight bubbling on tongue. Will let clear for another 5 days. |
+| 3 | 12 | 1.012 |  3.07 |   "   | 2018-05-24 | 12 | Brew is less cloudy, taste has drastically improved (no yeast) but is watery. Reckon due to not putting enough malt. Time to bottle and start the second fermentation. Doesn't look too promising. |
+| 4 | 10 | 1.01 | 2.56 | 3.68 | 2018-05-26 | Bottling day. Brew had some clarity to it and smelled and tasted that has potential. Used 7g (coffee scoopful) of brown sugar per half a liter. Brew started bubbling a bit after adding sugar. For the other half of the beer added half a packet of concentrated cherry aroma which improved the smell drastically. Unfortunately due to light stirring, agitated yeast got into the bottles which will produce sediment. 
