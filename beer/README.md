@@ -14,7 +14,7 @@ To make beer out of the cheapest ingredients.
 * 0.5kg of powdered sugar (2% potato starch)
 * Unknown yeast strain
 
-![Image of initial setup](0000.jpg)
+![Image of initial setup](img/0000.jpg)
 
 Initial brewing setup and ingredients (yeast not pictured)
 
@@ -28,7 +28,7 @@ _Image author [@jaanjanesmae](https://github.com/janesmae)_
 | 1 | 12 | 1.012 |  3.07 |   "   | 2018-05-17 | 5 | <details><summary>Click to view beer color</summary><p><img src="img/0001.jpg" alt="Measuring cylinder and cup" title="Measuring cylinder and beer tasting" /></p><p>_Image author [@jaanjanesmae](https://github.com/janesmae)_</p></details> |
 | 2 | 12 | 1.012 |  3.07 |   "   | 2018-05-19 | 7 | Brew is cloudy, taste has improved, slight bubbling on tongue. Will let clear for another 5 days. |
 | 3 | 12 | 1.012 |  3.07 |   "   | 2018-05-24 | 12 | Brew is less cloudy, taste has drastically improved (no yeast) but is watery. Reckon due to not putting enough malt. Time to bottle and start the second fermentation. Doesn't look too promising. <details><summary>Click to view beer color</summary><p><img src="img/0002.jpg" alt="Measuring cylinder and cup" title="Image of beer color and measuring cylinder" /></p></details> |
-| 4 | 10 | 1.01 | 2.56 | 3.68 | 2018-05-26 | 14 | Bottling day. Brew had some clarity to it and smelled and tasted that has potential. Used 7g (coffee scoopful) of brown sugar per half a liter. Brew started bubbling a bit after adding sugar. For the other half of the beer added half a packet of concentrated cherry aroma which improved the smell drastically. Unfortunately due to light stirring, agitated yeast got into the bottles which will produce sediment. <details><summary>Click to view final measurement</summary><p><img src="img/0004.jpg" alt="Measuring cylinder with hydrometer" title="Final Gravity of the brew" /></p></details> |
+| 4 | 10 | 1.01 | 2.56 | 3.68 | 2018-05-26 | 14 | Bottling day. Brew had some clarity to it and smelled and tasted that has potential. At priming used 7g (coffee scoopful) of brown sugar per half a litre. Brew started bubbling a bit after adding sugar. For the other half of the beer added half a packet of concentrated cherry aroma which improved the smell drastically. Unfortunately due to light stirring, agitated yeast got into the bottles which will produce sediment. Nevertheless, got 19 litres of beer bottled. Will let stay for another week or two and then try the beers at a ChaosTreff event or when Google Dev Roadshow rolls in. Whichever happens earlier. <details><summary>Click to view final measurement</summary><p><img src="img/0004.jpg" alt="Measuring cylinder with hydrometer" title="Final Gravity of the brew" /></p></details> |
 
 _2018-05-25_
 
