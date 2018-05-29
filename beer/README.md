@@ -28,14 +28,15 @@ _Image author [@jaanjanesmae](https://github.com/janesmae)_
 | 1 | 12 | 1.012 |  3.07 |   "   | 2018-05-17 | 5 | <details><summary>Click to view beer color</summary>![Measuring cylinder and beer tasting](0001.jpg)</details> |
 | 2 | 12 | 1.012 |  3.07 |   "   | 2018-05-19 | 7 | Brew is cloudy, taste has improved, slight bubbling on tongue. Will let clear for another 5 days. |
 | 3 | 12 | 1.012 |  3.07 |   "   | 2018-05-24 | 12 | Brew is less cloudy, taste has drastically improved (no yeast) but is watery. Reckon due to not putting enough malt. Time to bottle and start the second fermentation. Doesn't look too promising. 
-<details><summary>Click to view beer color</summary>![Image of beer color and measuring cylinder](0002.jpg) |
-| 4 | 10 | 1.01 | 2.56 | 3.68 | 2018-05-26 | 14 | 14 | 14 | 14 | 14 | 14 | 14 | 14 | 14 | 14 | 14 | 14 | 14 | 14 | Bottling day. Brew had some clarity to it and smelled and tasted that has potential. Used 7g (coffee scoopful) of brown sugar per half a liter. Brew started bubbling a bit after adding sugar. For the other half of the beer added half a packet of concentrated cherry aroma which improved the smell drastically. Unfortunately due to light stirring, agitated yeast got into the bottles which will produce sediment.
-<details><summary>Click to view final measurement</summary>![Final Gravity of the brew](0004.jpg) |
+ <details><summary>Click to view beer color</summary>![Image of beer color and measuring cylinder](0002.jpg)</details> |
+| 4 | 10 | 1.01 | 2.56 | 3.68 | 2018-05-26 | 14 | Bottling day. Brew had some clarity to it and smelled and tasted that has potential. Used 7g (coffee scoopful) of brown sugar per half a liter. Brew started bubbling a bit after adding sugar. For the other half of the beer added half a packet of concentrated cherry aroma which improved the smell drastically. Unfortunately due to light stirring, agitated yeast got into the bottles which will produce sediment.
+
+<details><summary>Click to view final measurement</summary>![Final Gravity of the brew](0003.jpg)</details> |
 
 2018-05-25
 
 In other news, got another tub to ferment in! 
-<details><summary>Click to view</summary>
-![Image of new tun](0003.jpg)
-<p>New ~30 l tun! Onwards to more beer!</p>
-</summary>
+
+<details><summary>Click to view</summary>![Image of new tun](0003.jpg)</details>
+
+New ~30 l tun! Onwards to more beer!
