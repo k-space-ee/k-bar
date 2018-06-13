@@ -32,4 +32,4 @@ _2018-05-25_
 
 In other news, got another tub to ferment in! 
 
-<details><summary>Click to view</summary><p><img src="img/0003.jpg" alt="New tun, bottle filler and airlock" title="Image of new tun" /></p><p>New ~30 litre fermentation bucket! Doubling Ballmer Peak production capacity!</p></details>
+<details><summary>Click to view</summary><p><img src="../img/0003.jpg" alt="New tun, bottle filler and airlock" title="Image of new tun" /></p><p>New ~30 litre fermentation bucket! Doubling Ballmer Peak production capacity!</p></details>
