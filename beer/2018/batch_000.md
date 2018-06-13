@@ -12,11 +12,11 @@ To make beer out of the cheapest ingredients.
 * 0.5kg of powdered sugar (2% potato starch)
 * Unknown yeast strain
 
-![Image of initial setup](img/0000.jpg)
+![Image of initial setup](../img/0000.jpg)
 
 Initial brewing setup and ingredients (yeast not pictured)
 
-_Image author [@jaanjanesmae](https://github.com/janesmae)_
+_Image author [@janesmae](https://github.com/janesmae)_
 
 #### Measurements
 

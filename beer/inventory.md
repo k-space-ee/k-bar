@@ -1,11 +1,13 @@
 # Brewing Equipment Inventory @ k-space
 
-![Fermenting bucket (with tap, rubber ring for airlock, airlock), beer filler](img/0003.jpg)
+![Fermenting bucket (with tap, rubber ring for airlock, airlock), beer filler](img/0003.jpg) (Provided by [@janesmae](https://github.com/janesmae)
 <br/>
 * Fermenting bucket with tap
 * rubber ring for airlock
 * airlock 
-* and beer filler
+* beer filler
+* beer bottle capper
+* bottle caps
 
 ![Fermenting bucket with accessories](img/0000.jpg)
 <br/>
