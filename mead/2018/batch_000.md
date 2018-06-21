@@ -12,5 +12,5 @@ Backstory is that a local urban beekeep had some bee food that supposedly starte
 * ~25 l of water, some boiled some not, kept around 27 degrees Celsius
 
 | # | Oe | [P.Alc.](https://www.brewersfriend.com/abv-calculator/ "Potential alcohol if Final Gravity is 1.012") |   Date   | Days | Notes |
-| - | :-: | :---: | :--: | :----: | :------------------: | :-: | :---- |
+| - | :-: | :---: | :--: | :----: | :------------------ |
 | 0 | 34 (?) | 2.63 | 2018-06-21 | 0 | |
