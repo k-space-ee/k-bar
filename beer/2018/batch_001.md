@@ -21,5 +21,6 @@ _Image author [@janesmae](https://github.com/janesmae)_
 | 0 | 40 | 4.2 | 2018-06-13 | 0 | Brew Day! Took 4 hours, need to plan ahead to limit to 2 h (including cleaning and sanitizing). This time added 0.25 g of servomycel as the beer from previous batch was still going. Hopefully this will helpyeast to finish the fermentation. Also need to look into water chemistry as tap water has a lot of calcium deposits in it. <details><summary>Adding Servomycel (yeast nutrient, made locally, lol)</summary><p><img src="../img/0011.jpg" alt="0.25g of Servomycel going into the bucket" title="Last, but not least, ingredient"></p></details> |
 | 1 | 12 |  | 2018-06-18 | 5 | Beer has yellow color, small fizz and a lot of small bubbles that refuse to disperse. <details><summary>Most probably an incorrect gravity measurement</summary><p><img src="../img/0012.jpg" alt="Bubbles pushing hydrometer upwards" title="A lot of small bubbles"></p></details> |
 | 2 | 12 | 3.68 | 2018-06-21 | 8 | Beer has a bread-y aftertaste. Bubbles disperse more easily. |
-| 3 | 12 | " | 2018-06-05 | 23 | Midsummer holidays postponed bottling. Density has remained the same and beer, and is a not clear and has an amber-yellowish hue. |
+| 3 | 12 | " | 2018-07-05 | 23 | Midsummer holidays postponed bottling. Density has remained the same and beer, and is a not clear and has an amber-yellowish hue. |
+| 4 | " | " | 2018-07-06 | 24 | Bottling day! 36*0,33 l bottles filled. Need to start brewing with double barrels. |
 
