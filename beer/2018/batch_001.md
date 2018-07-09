@@ -12,7 +12,7 @@ Summery Cerveza with raspberry
 * 1 kg of brewing sugar (dried light malt)
 * American Ale Yeast (came in the BB bag)
 
-![Bullet Brew Cerveza malt with yeast sachet hidden between layers](../img/0010.jpg)
+![Bullet Brew Cerveza malt with yeast sachet hidden between layers](../../img/0010.jpg)
 
 _Image author [@janesmae](https://github.com/janesmae)_
 
