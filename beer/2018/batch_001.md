@@ -22,9 +22,6 @@ _Image author [@janesmae](https://github.com/janesmae)_
 | 1 | 12 |  | 2018-06-18 | 5 | Beer has yellow color, small fizz and a lot of small bubbles that refuse to disperse. <details><summary>Most probably an incorrect gravity measurement</summary><p><img src="../../img/0012.jpg" alt="Bubbles pushing hydrometer upwards" title="A lot of small bubbles"></p></details> |
 | 2 | 12 | 3.68 | 2018-06-21 | 8 | Beer has a bread-y aftertaste. Bubbles disperse more easily. |
 | 3 | 12 | " | 2018-07-05 | 23 | Midsummer holidays postponed bottling. Density has remained the same and beer, and is a not clear and has an amber-yellowish hue. |
-<<<<<<< HEAD
 | 4 | " | " | 2018-07-06 | 24 | Bottling day! ~2,5*24*0,33 l = 60 bottles filled. Need to start brewing with double barrels. |
-=======
-| 4 | " | " | 2018-07-06 | 24 | Bottling day! 36*0,33 l bottles filled. Need to start brewing with double barrels. <br><details><summary>Some memories ...</summary><p><img src="../../img/0013.jpg" alt="Brewers Christmas Tree - bottle drying rack" title="Brewers Christmas Tree - bottle drying rack" /><img src="../../img/0014.jpg" alt="All bottled, ready for second fermentation" title="All bottled, ready for second fermentation" /><img src="../../img/0015.jpg" alt="One special edition bottle with custom cap and painted logo" title="One special edition bottle with custom cap and painted logo" /> </p></details>   |
->>>>>>> ea2009fd8c08daf36e8ffc5c5a8260c2b0d3b6df
+| 4 | " | " | 2018-07-06 | 24 | Bottling day! 2.5 boxes*24 = ~60 (0,33 l) bottles filled. Need to start brewing with double barrels. <br><details><summary>Some memories ...</summary><p><img src="../../img/0013.jpg" alt="Brewers Christmas Tree - bottle drying rack" title="Brewers Christmas Tree - bottle drying rack" /><img src="../../img/0014.jpg" alt="All bottled, ready for second fermentation" title="All bottled, ready for second fermentation" /><img src="../../img/0015.jpg" alt="One special edition bottle with custom cap and painted logo" title="One special edition bottle with custom cap and painted logo" /> </p></details>   |
 
