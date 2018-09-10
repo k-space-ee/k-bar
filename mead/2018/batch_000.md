@@ -14,4 +14,4 @@ Backstory is that a local urban beekeep had some bee food that supposedly starte
 | # | Oe | [P.Alc.](https://www.brewersfriend.com/abv-calculator/ "Potential alcohol if Final Gravity is 1.012") |   Date   | Days | Notes |
 | - | :-: | :---: | :--: | :----: | :------------------ |
 | 0 | 34 (?) | 2.63 | 2018-06-21 | 0 | |
-| 1 | 2 | 4.2 | 2018-09-08 | 80 | Sour taste. Added 200ml of sugar to about 23l of mead before bottling. </br><details><summary>Bottling</summary><p><img src="../../img/0000.jpg" alt="Cleaning bottles with a power drill" title="Power Cleaning" /></p></br><p><img src="../../img/mead/0001.jpg" alt="Draingin fermentation buckit" title="Brew Drain" /></p></details> |
+| 1 | 2 | 4.2 | 2018-09-08 | 80 | Sour taste. Added 200ml of sugar to about 23l of mead before bottling. </br><details><summary>Bottling</summary><p><img src="../../img/mead/0000.jpg" alt="Cleaning bottles with a power drill" title="Power Cleaning" /></p></br><p><img src="../../img/mead/0001.jpg" alt="Draingin fermentation buckit" title="Brew Drain" /></p></details> |
